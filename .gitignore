@@ -1,3 +1,6 @@
 .vs/
 x64/
 ParticleSystem/
+ParticleSystems.vcxproj/
+ParticleSystems.vcxproj.filters/
+ParticleSystems.vcxproj.user/
